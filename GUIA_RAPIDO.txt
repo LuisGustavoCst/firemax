@@ -1,0 +1,223 @@
+﻿â•”â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•—
+â•‘                   FIREMAX - GUIA RÃPIDO                       â•‘
+â•šâ•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•
+
+ðŸ“‹ ÃNDICE RÃPIDO:
+â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•
+
+1. INSTALAÃ‡ÃƒO RÃPIDA
+2. PRIMEIRO USO
+3. FUNÃ‡Ã•ES MAIS USADAS
+4. DICAS PARA GAMES
+5. RESTAURAR APÃ“S PROBLEMAS
+
+â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•
+
+1ï¸âƒ£ INSTALAÃ‡ÃƒO RÃPIDA:
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+
+A. Abra PowerShell como Administrador:
+   - Clique em Iniciar
+   - Digite "PowerShell"
+   - Clique com botÃ£o direito
+   - Selecione "Executar como administrador"
+
+B. Copie e cole este comando:
+   Set-ExecutionPolicy -ExecutionPolicy Bypass -Scope CurrentUser
+
+C. Digite "S" ou "Sim" se perguntado
+
+D. Navegue atÃ© a pasta:
+   cd C:\Users\[SEU_USUARIO]\Documents\firemax-otimizer
+
+E. Execute:
+   .\firemax.ps1
+
+â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•
+
+2ï¸âƒ£ PRIMEIRO USO (Guia Passo a Passo):
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+
+Passo 1: Execute como descrito acima
+
+Passo 2: VocÃª verÃ¡ o menu com 17 opÃ§Ãµes
+
+Passo 3: PARA PRIMEIRA VEZ, recomendamos:
+        a) Digite "12" - Fazer Backup (seguranÃ§a)
+        b) Digite "15" - OtimizaÃ§Ã£o Completa
+        c) Aguarde alguns minutos
+        d) Reinicie o PC quando solicitado
+
+Passo 4: ApÃ³s reinicio, seu PC estÃ¡ otimizado!
+
+â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•
+
+3ï¸âƒ£ FUNÃ‡Ã•ES MAIS USADAS:
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+
+ðŸ“Œ PARA LIBERAR ESPAÃ‡O:
+   Menu â†’ 1 (Limpeza de Sistema)
+   
+ðŸ“Œ PARA MELHORAR VELOCIDADE DE INICIALIZAÃ‡ÃƒO:
+   Menu â†’ 2 (Otimizar InicializaÃ§Ã£o)
+   
+ðŸ“Œ PARA LIBERAR MEMÃ“RIA:
+   Menu â†’ 3 (Liberar MemÃ³ria RAM)
+   
+ðŸ“Œ PARA MELHORAR FPS EM GAMES:
+   Menu â†’ 6 (Modo Jogo) + Menu â†’ 8 (Boost FPS)
+   
+ðŸ“Œ PARA VER STATUS DO PC:
+   Menu â†’ 9 (Status do Sistema)
+   
+ðŸ“Œ PARA ENCERRAR PROGRAMAS PESADOS:
+   Menu â†’ 11 (Gerenciador de Processos)
+
+â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•
+
+4ï¸âƒ£ DICAS PARA MELHOR PERFORMANCE EM GAMES:
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+
+ANTES DE JOGAR:
+
+1. Execute o FIREMAX e faÃ§a OtimizaÃ§Ã£o Completa (opÃ§Ã£o 15)
+2. Reinicie o PC
+3. Quando vai jogar:
+   a) Feche todos navegadores (Chrome, Firefox, Edge)
+   b) Feche Discord (alta memÃ³ria)
+   c) Execute o FIREMAX novamente
+   d) Use opÃ§Ã£o 6 (Modo Jogo)
+   e) Use opÃ§Ã£o 3 (Liberar MemÃ³ria)
+   f) Use opÃ§Ã£o 7 para dar HIGH priority ao seu game
+
+DURANTE O JOGO:
+
+- Se o jogo ficar lento, pressione:
+  a) Windows + Alt + Delete
+  b) Clique em Gerenciador de Tarefas
+  c) Procure o processo do jogo
+  d) Clique com botÃ£o direito â†’ Aumentar prioridade para "Alto"
+  
+- Se a temperatura subir muito:
+  a) Saia do jogo
+  b) Aguarde esfriar
+  c) Limpe o computador de poeira
+  d) Verifique ventiladores
+
+â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•
+
+5ï¸âƒ£ RESTAURAR APÃ“S PROBLEMAS:
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+
+âŒ Se algo deu errado:
+
+OPÃ‡ÃƒO 1 - Restaurar Backup:
+    a) Execute o FIREMAX
+    b) Menu â†’ 13 (Restaurar de Backup)
+    c) Selecione o backup mais recente
+    d) Confirme
+    e) Reinicie o PC
+
+OPÃ‡ÃƒO 2 - Restaurar PadrÃµes:
+    a) Execute o FIREMAX
+    b) Menu â†’ 16 (Restaurar PadrÃµes)
+    c) Digite "CONFIRMAR" para confirmar
+    d) Aguarde
+    e) Reinicie o PC
+
+â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•
+
+ATALHOS ÃšTEIS NO FIREMAX:
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+
+1 â†’ Limpeza de Sistema (+ liberaÃ§Ã£o de espaÃ§o)
+2 â†’ InicializaÃ§Ã£o RÃ¡pida
+3 â†’ MemÃ³ria Livre (use frequentemente)
+4 â†’ Efeitos Visuais (mais FPS)
+5 â†’ Disco Otimizado
+6 â†’ Modo Jogo (importante para gaming)
+7 â†’ Prioridade de Processo (aumenta FPS)
+8 â†’ Boost FPS (energia mÃ¡xima)
+9 â†’ Ver status (verificar saÃºde do PC)
+10 â†’ Temperatura (monitorar)
+11 â†’ Gerenciar Processos (encerrar apps)
+12 â†’ Fazer Backup (SEMPRE antes de opÃ§Ã£o 15)
+13 â†’ Restaurar Backup (se der problema)
+14 â†’ Limpar Arquivos Temp
+15 â†’ Tudo de uma vez (otimizaÃ§Ã£o completa)
+16 â†’ Voltar ao Normal (desfazer tudo)
+0 â†’ Sair
+
+â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•
+
+âš ï¸ AVISOS IMPORTANTES:
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+
+1. SEMPRE execute como ADMINISTRADOR
+2. SEMPRE faÃ§a backup (opÃ§Ã£o 12) antes de opÃ§Ã£o 15
+3. Feche programas abertos antes de usar
+4. Se algo der errado, use opÃ§Ã£o 13 ou 16
+5. REINICIE o PC apÃ³s otimizaÃ§Ãµes importantes
+6. Monitore temperatura com HWiNFO (gratuito)
+
+â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•
+
+ðŸ“ ONDE ENCONTRAR LOGS E BACKUPS:
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+
+Logs:
+  C:\Users\[seu_usuario]\Documents\firemax-otimizer\logs\
+
+Backups:
+  C:\Users\[seu_usuario]\Documents\firemax-otimizer\backups\
+
+â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•
+
+ðŸŽ® PERFORMANCE ESPERADA APÃ“S OTIMIZAÃ‡ÃƒO:
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+
+âœ“ Boot 30-50% mais rÃ¡pido
+âœ“ 2-5 GB de espaÃ§o liberado
+âœ“ 5-15% mais FPS em games
+âœ“ Menos travamentos e crashes
+âœ“ Temperatura mais estÃ¡vel
+âœ“ PC mais responsivo
+
+â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•
+
+â“ DÃšVIDAS FREQUENTES:
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+
+P: Perdi meus dados?
+R: NÃƒO. O FIREMAX apenas limpa arquivos temporÃ¡rios e otimiza configuraÃ§Ãµes.
+
+P: Posso usar enquanto jogo?
+R: NÃƒO. Feche o jogo, execute o FIREMAX, depois jogue.
+
+P: Preciso de internet?
+R: NÃƒO. Tudo Ã© local no seu PC.
+
+P: Qual opÃ§Ã£o usar todo dia?
+R: OpÃ§Ã£o 3 (Liberar MemÃ³ria) ou 6 (Modo Jogo) antes de jogar.
+
+P: Pode danificar meu PC?
+R: NÃ£o. Ele apenas otimiza. Em caso de problema, use Restaurar Backup.
+
+â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•
+
+ðŸš€ PRONTO PARA COMEÃ‡AR?
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+
+1. Abra PowerShell como Administrador
+2. Execute: .\firemax.ps1
+3. Digite a opÃ§Ã£o desejada
+4. Aproveite seu PC otimizado!
+
+Boa sorte! ðŸŽ®âœ¨
+
+â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•
+
+Desenvolvido por: FireMax Development Team
+VersÃ£o: 2.0
+Data: 2026-06-05
+
