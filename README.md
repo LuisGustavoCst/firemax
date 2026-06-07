@@ -2,7 +2,7 @@
 
 FIREMAX é um otimizador de sistema escrito em PowerShell, voltado para melhorar o desempenho de PCs usados para jogos. Este repositório contém o script principal, utilitários, documentação e um script de empacotamento para facilitar a distribuição.
 
-Autor: Silva
+Autor: bloodzord
 Versão: 1.0 (2026-06-06)
 
 ## Resumo
@@ -49,7 +49,6 @@ Para gerar um arquivo ZIP pronto para upload, use o script `package.ps1`:
 # O ZIP será criado em .\dist\FIREMAX-YYYYMMDD.zip
 ```
 
-Este arquivo compactado é adequado para fazer upload em serviços como MediaFire.
 
 ## Arquivos importantes
 
