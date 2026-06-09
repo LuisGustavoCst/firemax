@@ -29,7 +29,7 @@ cls
 echo.
 echo ============================================================
 echo.
-echo   FIREMAX - v2.0
+echo   FIREMAX - v1.0
 echo   Otimizador Profissional de PC para Games
 echo.
 echo ============================================================
