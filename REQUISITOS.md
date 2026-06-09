@@ -5,7 +5,7 @@
 ### MÃNIMOS:
 - **Windows 10** ou superior (22H2 recomendado)
 - **PowerShell 5.1** ou superior
-- **4 GB de RAM**
+- **2 GB de RAM**
 - **2 GB de espaÃ§o em disco** (para backups)
 - **ConexÃ£o com Internet** (opcional, apenas para downloads)
 
