@@ -1,5 +1,5 @@
-﻿# FIREMAX - v2.0
-# Otimizacao de PC para Gaming
+﻿# FIREMAX - v1.0
+# Otimizacao de PC
 
 if (-NOT ([Security.Principal.WindowsPrincipal][Security.Principal.WindowsIdentity]::GetCurrent()).IsInRole([Security.Principal.WindowsBuiltInRole]::Administrator)) {
     Write-Host "[X] Este script requer privilegios de ADMINISTRADOR!" -ForegroundColor Red
